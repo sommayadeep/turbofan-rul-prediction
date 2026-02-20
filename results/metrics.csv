@@ -1,0 +1,9 @@
+subset,model_type,rul_cap,rmse,mae
+FD001,baseline,125,15.8144,10.1301
+FD001,improved,125,15.6636,10.0095
+FD002,baseline,125,16.7837,11.0895
+FD002,improved,125,16.7263,11.0626
+FD003,baseline,125,13.3585,7.8894
+FD003,improved,125,12.9021,7.7372
+FD004,baseline,125,15.1072,9.1282
+FD004,improved,125,14.9326,9.2128

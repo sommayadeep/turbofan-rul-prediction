@@ -1,0 +1,5 @@
+subset,rmse_gain_positive_is_better,mae_gain_positive_is_better
+FD001,0.1508,0.1206
+FD002,0.0574,0.0269
+FD003,0.4564,0.1522
+FD004,0.1746,-0.0846

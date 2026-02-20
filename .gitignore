@@ -1,0 +1,18 @@
+# Python env/cache
+.venv/
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Local caches
+.mplcache/
+
+# Large/generated artifacts
+models/
+data/raw/
+
+# Optional temp files
+*.log
